@@ -1,6 +1,6 @@
 Looking for work! [CV](https://alanpearce.eu/cv/)
 
-I don't keep my own projects here. See below.
+I only keep forks here. See below for original projects.
 
 - [Personal Git Server](https://git.alanpearce.eu)
 - [Codeberg](https://codeberg.org/alanpearce)
