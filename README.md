@@ -1,4 +1,4 @@
-Looking for work! [CV](https://alanpearce.eu/cv/)
+Looking for work! [CV](https://alanpearce.eu/cv)
 
 I only keep forks here. See below for original projects.
 
